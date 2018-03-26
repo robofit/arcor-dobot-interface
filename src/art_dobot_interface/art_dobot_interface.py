@@ -1,5 +1,4 @@
-from art_brain_robot_interface import ArtBrainRobotInterface
-from art_gripper import ArtGripper
+from art_brain import ArtBrainRobotInterface, ArtGripper
 
 
 class ArtDobotInterface(ArtBrainRobotInterface):
